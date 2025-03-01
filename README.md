@@ -27,13 +27,6 @@ Este proyecto permite realizar operaciones básicas de teoría de conjuntos en J
 - Ingresa los números del segundo conjunto (también finalizando con fin).
 
 - El programa mostrará los resultados de la unión, intersección y diferencia de los conjuntos.
-____
-### 📬 Contacto
-- 📧 Correo electrónico: cristanchodayana062017@gmail.com
-
-- 💼 LinkedIn: [Elidallana Cristancho Caceres](https://www.linkedin.com/in/elidallanacristancho/)
-
-¡Gracias por ser parte de esta aventura! 🚀✨
 
 ### 📂 Estructura del Código
 ````bash
@@ -63,3 +56,11 @@ Diferencia: Muestra los elementos del primer conjunto que no están en el segund
 - Se deben ingresar solo números enteros.
 
 - Para finalizar la entrada de un conjunto, se debe escribir fin.
+
+  ____
+### 📬 Contacto
+- 📧 Correo electrónico: cristanchodayana062017@gmail.com
+
+- 💼 LinkedIn: [Elidallana Cristancho Caceres](https://www.linkedin.com/in/elidallanacristancho/)
+
+¡Gracias por ser parte de esta aventura! 🚀✨
